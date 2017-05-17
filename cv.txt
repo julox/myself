@@ -1,0 +1,36 @@
+Juan Carlos García Sigüenza
+www.juancarlos.eu
+
+
+32 year-old technology enthusiast and professional
+
+
+Experience
+==========
+2013 - Present: Analyst and Developer - Telefónica Compras Electronicas
+I am working on developments of microstrategy and oracle pl/sql for to manage information and predictive analysis of the Telefónica purchases and of the accounting/invoicing system of TGS and TCE. I'm responsible for administration of this analytical repository: I architected, implemented and maintain the current application environment and I am responsible for it's every day stability and updates, as well as the new reports and developments.
+
+2008 - 2013: Consultant - Indra 
+Work of consultant in public administrations for several clients: Ministry of science, Correos and Institute of work. Developments of business intelligence projects with MicroStrategy and Oracle for all stages: analyze, design, develop and administration.
+
+
+Education
+=========
+2004 - 2008: Graduate of Computer Science - Universidad de Acalá
+Studies include: Statistical analysis, GUI Programming, Functional Programming, Computer Architecture, Enterprise Software Architecture, Data Base Design, Accounting
+
+
+Technical Experience
+====================
+Extremely Proficient With
+languages: Python, PL/SQL, Shell Script, R
+technologies: MicroStrategy (Administration, Development, Analysis and Report Design), GNU/Linux, Oracle BBDD, Git
+
+Have Experience With
+languages: Java, Javascript, nodejs, HTML, CSS, Haskell
+technologies: SAP Bussines Objetc, Flask, MySQL, Google Cloud
+
+
+References
+==========
+References available upon request
