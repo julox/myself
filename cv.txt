@@ -27,8 +27,8 @@ languages: Python, PL/SQL, Shell Script, R
 technologies: MicroStrategy (Administration, Development, Analysis and Report Design), GNU/Linux, Oracle BBDD, Git
 
 Have Experience With
-languages: Java, Javascript, nodejs, HTML, CSS, Haskell
-technologies: SAP Bussines Objetc, Flask, MySQL, Google Cloud
+languages: Java, Javascript, nodejs, HTML, CSS
+technologies: SAP Bussines Objetc, Flask, MySQL, Google Cloud, Docker
 
 
 References
