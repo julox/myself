@@ -34,3 +34,8 @@ technologies: SAP Bussines Objetc, Flask, MySQL, Google Cloud, Docker
 References
 ==========
 References available upon request
+
+Personal Portfolio
+==========
+blog.juancarlos.eu
+pythonconverter.com
