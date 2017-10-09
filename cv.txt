@@ -38,3 +38,8 @@ blog.juancarlos.eu - Personal blog
 References
 ==========
 References available upon request
+
+Personal Portfolio
+==========
+blog.juancarlos.eu
+pythonconverter.com
