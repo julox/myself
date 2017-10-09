@@ -30,6 +30,10 @@ Have Experience With
 languages: Java, Javascript, nodejs, HTML, CSS
 technologies: SAP Bussines Objetc, Flask, MySQL, Google Cloud, Docker
 
+Personal Portfolio
+==========
+pythonconverter.com - Simple online python 2 to 3 converter
+blog.juancarlos.eu - Personal blog
 
 References
 ==========
