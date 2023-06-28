@@ -39,6 +39,12 @@ Have Experience With:
 · Languages: Java, JavaScript, Node.js, HTML, CSS, PostgreSQL
 · Technologies: SAP Business Objects, Flask, MySQL, Google Cloud, Docker, Tableau
 
+Languages
+=========
+Spanish: Native proficiency
+German: Intermediate (B1)
+English: Upper intermediate (B2)
+
 Personal Portfolio
 ==================
 https://github.com/julox/Numox - Open source Oracle PL/SQL library for matrix calculus in Oracle
