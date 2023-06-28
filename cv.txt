@@ -1,40 +1,49 @@
 Juan Carlos García Sigüenza
 www.juancarlos.eu
 
-
-37 year-old technology enthusiast and professional
-
+38-year-old technology professional with a passion for data analysis
 
 Experience
 ==========
-2013 - Present: Analyst and Developer - Telefónica Compras Electronicas
-I am working on developments of microstrategy and oracle pl/sql for to manage information and predictive analysis of the Telefónica purchases and of the accounting/invoicing system of TGS and TCE. I'm responsible for administration of this analytical repository: I architected, implemented and maintain the current application environment and I am responsible for it's every day stability and updates, as well as the new reports and developments.
+2019 - Present: Telefónica Global Services (TGS), Munich - Senior Data Analyst
+· Oversee the management, utilization, and analysis of TGS's data assets.
+Develop and implement predictive models for Telefónica's finance and purchasing departments, enhancing decision-making processes and operational efficiencies.
+· Apply automation practices, including Robotic Process Automation (RPA) and Python web scraping scripts, to optimize routine tasks and data collection processes.
+· Maintain and manage Azure cloud services, ensuring optimal performance, security, and scalability of the data environment.
 
-2008 - 2013: Consultant - Indra 
-Work of consultant in public administrations for several clients: Ministry of science, Correos and Institute of work. Developments of business intelligence projects with MicroStrategy and Oracle for all stages: analyze, design, develop and administration.
+2013 - 2019: Telefónica Compras Electronicas (TCE), Madrid - Developer
+· Managed the development of MicroStrategy and Oracle PL/SQL solutions for TGS and TCE's information and accounting/invoicing systems.
+Oversaw the administration of an analytical repository, handling its architecture, implementation, maintenance, and day-to-day stability.
+Accountable for the updates, as well as new reports and developments.
 
+2008 - 2013: Indra, Madrid - Consultant
+· Served as a consultant in public administrations for various clients: Ministry of Science, Correos, and Institute of Work.
+Managed business intelligence projects with MicroStrategy and Oracle at all stages: analysis, design, development, and administration.
 
 Education
-=========
-2004 - 2008: Graduate of Computer Science - Universidad de Acalá
-Studies include: Statistical analysis, GUI Programming, Functional Programming, Computer Architecture, Enterprise Software Architecture, Data Base Design, Accounting
+==========
+2004 - 2008: Universidad de Alcalá - Bachelor's in Computer Science
 
+Courses included
+====================
+Statistical Analysis, GUI Programming, Functional Programming, Computer Architecture, Enterprise Software Architecture, Database Design, Accounting
 
 Technical Experience
-====================
-Extremely Proficient With
-languages: Python, PL/SQL, Shell Script, R
-technologies: MicroStrategy (Administration, Development, Analysis and Report Design), GNU/Linux, Oracle BBDD, Git
+=====================
 
-Have Experience With
-languages: Java, Javascript, nodejs, HTML, CSS
-technologies: SAP Bussines Objetc, Flask, MySQL, Google Cloud, Docker
+Extremely Proficient With:
+· Languages: Python (numpy, tensorflow, pytorch), PL/SQL, Shell Script, R
+· Technologies: MicroStrategy, GNU/Linux, Oracle DB, Azure Cloud
+
+Have Experience With:
+· Languages: Java, JavaScript, Node.js, HTML, CSS, PostgreSQL
+· Technologies: SAP Business Objects, Flask, MySQL, Google Cloud, Docker, Tableau
 
 Personal Portfolio
-==========
-pythonconverter.com - Simple online python 2 to 3 converter
-blog.juancarlos.eu - Personal blog
+==================
+https://github.com/julox/Numox - Open source Oracle PL/SQL library for matrix calculus in Oracle
+juancarlos.eu - Personal web
 
 References
 ==========
-References available upon request
+Available upon request
