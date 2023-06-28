@@ -47,7 +47,7 @@ English: Upper intermediate (B2)
 
 Personal Portfolio
 ==================
-https://github.com/julox/Numox - Open source Oracle PL/SQL library for matrix calculus in Oracle
+https://github.com/julox/Numo - Open source Oracle PL/SQL library for matrix calculus in Oracle
 juancarlos.eu - Personal web
 
 References
